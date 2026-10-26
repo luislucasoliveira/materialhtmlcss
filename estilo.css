@@ -1,0 +1,29 @@
+body{
+	background-color: rgba(16, 22, 54, 0.4);
+}
+header{
+	border:5px dotted darkcyan;
+	border-radius: 20px;
+	height: 200px;
+	/*background-color: #f7f1e3; */ 
+	/*background-color: rgba(70, 119, 111, 0.5); /* Transparência */
+	background-image: linear-gradient(to bottom, #2c2c54, #218c74);
+	color: #f7f1e3;
+	font-size: 26px;
+	text-align: center;
+	/* border-color: green;
+	border-width: 1px;
+	border-style: solid; */
+}
+section{
+	border:2px solid darkblue;
+	border-radius: 20px;
+	height: 300px;
+	margin: 50px;
+	/*margin-top: 20px;
+	margin-left: 50px;*/
+   text-align: center;
+   color: #f7f1e3;
+   font-size: 26px;
+   padding-top: 90px;
+}
